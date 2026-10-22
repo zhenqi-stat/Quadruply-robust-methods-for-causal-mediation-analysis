@@ -1,0 +1,4 @@
+# Preserve checksum-verified file bytes on every platform.
+* -text
+*.RData binary
+*.rds binary

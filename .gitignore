@@ -1,0 +1,7 @@
+# Local R sessions and generated reruns.
+/.RData
+.Rhistory
+.Ruserdata
+.Rproj.user/
+.DS_Store
+/output/
